@@ -1,7 +1,7 @@
 #%%
 print("Hello world")
 print(5 / 8)
-print (7+10)
+print (5+20)
 print(10/3, 3/10) # print numerical divisions
 print(10//3, 3//10) # print quotients from divisions
 print(10%3, 3%10) # print remainders from divisions
